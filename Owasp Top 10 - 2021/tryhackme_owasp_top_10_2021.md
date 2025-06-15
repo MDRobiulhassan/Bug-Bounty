@@ -1,6 +1,6 @@
 # Bug-bounty - OWASP Top 10 TryHackMe Write-up
 
-This is a write-up for the "OWASP Top 10" room on TryHackMe, written in 2023. It is designed for users who do not have their own virtual machines and want to utilize the resources provided by TryHackMe.
+This is a write-up for the "OWASP Top 10" room on TryHackMe, written in 2021. It is designed for users who do not have their own virtual machines and want to utilize the resources provided by TryHackMe.
 
 ## Overview
 This room focuses on the following OWASP Top 10 vulnerabilities:
